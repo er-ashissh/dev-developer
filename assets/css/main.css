@@ -2489,3 +2489,12 @@ input, select, textarea {
 	top: 100%;
 	bottom: auto;
 }
+
+.contact-icon {
+	color: skyblue !important;
+}
+
+.contact-link {
+	color: mediumblue;
+    text-decoration: underline;
+}
